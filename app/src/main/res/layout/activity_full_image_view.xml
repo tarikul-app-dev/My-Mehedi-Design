@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="traintimingapp.planet.it.limited.mymehedidesign.activities.FullImageViewActivity">
+    <RelativeLayout
+        android:id="@+id/image_main_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+
+        >
+
+
+        <traintimingapp.planet.it.limited.mymehedidesign.utill.TouchImageView
+            android:id="@+id/full_image_view"
+            android:layout_marginBottom="0dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+
+            />
+
+
+
+
+    </RelativeLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_share_pic"
+                android:layout_width="60dp"
+                android:layout_height="45dp"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/share"
+                />
+
+            <Button
+                android:id="@+id/btn_save_pic"
+                android:layout_width="60dp"
+                android:layout_height="45dp"
+                android:layout_marginRight="0dp"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/ic_save"
+                />
+        </RelativeLayout>
+
+    </FrameLayout>
+</LinearLayout>

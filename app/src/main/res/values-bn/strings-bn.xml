@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">মাই  ডিজাইন </string>
+    <string name="btn_all_design">সকল ডিজাইন সমূহ </string>
+    <string name="toolbar_title_settings">সেটিংস </string>
+    <string name="list_item_lan_settings">ল্যাংগুয়েজ  সেটিংস</string>
+    <string name="lang_dialog_title">ভাষা নির্বাচন করুন </string>
+    <string name="lang_dialog_message">আপনি কি ভাষা পরিবর্তন করতে চান ?</string>
+    <string name="language_setting">ভাষা পরিবর্তন </string>
+    <string name="alert_dialog_change_text">পরিবর্তন </string>
+    <string name="alert_dialog_cancel_message">ক্যানসেল </string>
+    <string name="design_list">সকল ডিজাইন সমূহ</string>
+    <string name="main_design_page">মেইন ডিজাইন পেজ </string>
+    <string name="more_apps">আরো এপপ্স </string>
+    <string name="rate_my_app">রেট মাই আপ্প </string>
+    <string name="eid_design_page">ঈদ ডিজাইন পেজ </string>
+    <string name="all_design_list">সকল ডিজাইন লিস্ট </string>
+    <string name="weeding_design_page">বিবাহ ডিজাইন পেজ </string>
+    <string name="hand_design_page">হাতের ডিজাইন পেজ </string>
+    <string name="latest_design_page">লেটেস্ট  ডিজাইন পেজ </string>
+    <string name="leg_design_page">পায়ের  ডিজাইন পেজ</string>
+    <string name="eid_design">ঈদ ডিজাইন</string>
+    <string name="weeding_design">বাহ ডিজাইন</string>
+    <string name="hand_design">হাতের ডিজাইন</string>
+    <string name="leg_design">পায়ের  ডিজাইন</string>
+    <string name="latest_design">লেটেস্ট  ডিজাইন</string>
+
+
+    <string-array name="lang_select">
+        <item>Select Language</item>
+        <item>বাংলা</item>
+        <item>English</item>
+    </string-array>
+
+</resources>
